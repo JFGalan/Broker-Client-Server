@@ -42,7 +42,7 @@ This project was made through Maven.
 - Insert **5** to enter the unlock password and unlock the server.
     * The password to enter to unlock the server is: **florida.es**
     * All in lower case.
-Insert **6** to xit the broker client.
+- Insert **6** to xit the broker client.
       
 ## External library 📚
 

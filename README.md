@@ -17,7 +17,7 @@ This project was made through Maven.
 ## PROGRAMME SETUP GUIDE ⚙️
 
 - **First step**: Clone this repository(https://github.com/JFGalan/Broker-Client-Server.git).
-- **Second step**: Download the library from the following repository:
+- **Second step**: Download the library from the following repository: https://github.com/JFGalan/Broker-Client-Server/tree/MavenLibrary
 - **Third step**: Unzip the ZIP file.
 - **Fourth step**: Realise clean, compile and istall to get the .jar from Mailsender APP.
 - **Fifth step**: Open the client project and the server project separately. If you open it as a single project it will not work.
